@@ -2,4 +2,22 @@
     width:100;
     max-width:100%
   }
+/* First page Styling */
+.firstPara span{
+  display:block;
+  margin-top: 10px;
+}
+button{
+  display: block;
+  width: 100%;
   
+}
+.illustration{
+  height:300px
+}
+.logo{
+  width:100px;
+}
+.Content1{
+  background-color: rgba(128, 128, 128, 0.859);
+}
