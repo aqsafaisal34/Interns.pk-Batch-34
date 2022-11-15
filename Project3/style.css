@@ -1,6 +1,7 @@
 .container{
     width:100;
-    max-width:100%
+    max-width:100%;
+
   }
 /* First page Styling */
 .firstPara span{
@@ -19,5 +20,15 @@ button{
   width:100px;
 }
 .Content1{
-  background-color: rgba(128, 128, 128, 0.859);
+  background-color: #e9ecef;
 }
+.Content2{
+  background-color: #ffffff;
+}
+.img1{
+  width:100px;
+  height: 100px;
+}
+/* .info{
+  margin-left: 20px;
+} */
